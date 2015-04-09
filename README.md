@@ -1,2 +1,2 @@
 # training-repo
-Repo far toying with github.
+Repo for toying with github.
